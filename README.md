@@ -29,13 +29,3 @@ Enter the dividend.
 Press the "÷" button.
 Enter the divisor.
 Press the "=" button to view the result.
-
-
-
-
-A: Yes, go to the settings menu to customize the theme, precision, and sound settings.
-Troubleshooting
-If you encounter any issues while using the calculator app, please refer to our troubleshooting guide here.
-
-Contact and Support
-For further assistance or inquiries, please contact our support team at support@example.com.
